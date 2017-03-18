@@ -2,7 +2,7 @@ the heads bugtracker
 ====================
 
 This is the bugtracker for the heads GNU/Linux libre distribution.
-Please use the [issues](https://git.devuan.org/heads/bugtracker/issues)
+Please use the [issues](https://github.com/headslive/bugtracker/issues)
 to report any bugs and other things you find in heads.
 
 You are advised to first search through the existing issues to find if
